@@ -3,4 +3,4 @@ Recently found this project buried in the files of my computer. This is a tutori
   
 Perhaps, this project is the land before time?  
   
-I decided to archived the project here too too look back upon and reflect on how far I've come since then.
+I decided to archive the project here too too look back upon and reflect on how far I've come since then.
