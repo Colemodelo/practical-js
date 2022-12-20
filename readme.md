@@ -3,4 +3,4 @@ Recently found this project buried in the files of my computer. This is one of m
   
 Perhaps, this project is the land before time?  
   
-I decided to archive the project on Github as its fun too look back upon and reflect on how far I've come since then.
+I decided to archived the project here too too look back upon and reflect on how far I've come since then.
